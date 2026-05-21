@@ -1,7 +1,7 @@
 # Predictive Analytics: Income Level Classification
 
 This repository contains an end-to-end machine learning project developed using the **KNIME Analytics Platform**. The primary objective is to predict whether an individual earns more than $50,000 annually based on the 1994 US Census Income dataset.
-👉 [Dataset] (https://www.kaggle.com/datasets/uciml/adult-census-income)
+👉 [Dataset](https://www.kaggle.com/datasets/uciml/adult-census-income)
 
 ## Project Overview
 The project strictly follows the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology. It covers everything from exploratory data analysis and data preprocessing (handling hidden missing values, equal size sampling for class imbalance) to the training and evaluation of multiple classification models.
